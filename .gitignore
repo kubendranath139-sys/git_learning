@@ -1,0 +1,6 @@
+# C++ executables
+main
+*.o
+*.exe
+*.out
+*.dSYM/
